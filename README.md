@@ -1,2 +1,2 @@
 # quantum_stuff
-Qiskit and quantum computing
+This repo serve to save my learning progress and experiments with Qiskit and quantum computing
