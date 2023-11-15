@@ -1,2 +1,2 @@
 # quantum_stuff
-This repo serve to save my learning progress and experiments with Qiskit and quantum computing
+This repo is my quantum playground, where I stash all my Qiskit adventures and experiments.
