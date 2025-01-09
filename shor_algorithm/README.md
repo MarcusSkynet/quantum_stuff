@@ -10,10 +10,13 @@ Steps of Shor's Algorithm:
 5. Perform repeated measurements and classical post-processing to find a factor of N.
 
 Example usage:
+
 result = ShorAlgorithm(N=21, a=17).run(attempts=5)
 
 N : Number to be factored
+
 a : is base for modular exponentiation. Default - chosen on random.
+
 attempts : number of measurement attempts to find factor. Default - 10
 
 NOTE: This version is currently only simulated and does not run on actual quantum hardware.
